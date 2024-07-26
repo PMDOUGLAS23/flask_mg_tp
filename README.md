@@ -1,2 +1,2 @@
-# flask_mg_tp
-Flask TP  from Miguel Grinberg "Flak Mega Tutorial"
+# microblog
+Microblog Flask TP  from Miguel Grinberg "Flak Mega Tutorial"
